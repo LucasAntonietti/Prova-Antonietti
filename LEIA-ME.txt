@@ -1,0 +1,1 @@
+Você conseguiu estruturar seus arquivos corretamente, seu HTML está correto e bem estruturado, sua estilização está boa e você conseguiu desenvolver parte das funcionalidades exigidas do javascript. Sendo assim o seu nivel é 4 nessa prova e sua nota é 5,0.
